@@ -3,3 +3,5 @@
 Subsequently, took out any div in the CSS style page within the header and turned ".header" into "header"
 ## Changed <div class= content> into <main class= content>
 subsequently changed description of each div inside the main to "section"
+## Changed side menu to "aside"
+subsequently added article tag
